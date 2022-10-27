@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Balogun Razak</h1>
-<h3 align="center">A passionate frontend developer from Africa 🌍</h3>
+<h3 align="center">A passionate MERN STACK developer from Africa 🌍</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razak1104&label=Profile%20views&color=0e75b6&style=flat" alt="razak1104" /> </p>
 
 <p align="left"> <a href="https://twitter.com/razak2free" target="blank"><img src="https://img.shields.io/twitter/follow/razak2free?logo=twitter&style=for-the-badge" alt="razak2free" /></a> </p>
 
-- 🔭 I’m currently working on **React and Next.js**
+- 🔭 I’m currently working on **MERN (MongoDB, Express, React, Node) PROJECT**
 
 - 👯 I’m looking to collaborate on **Awesome Technologies**
 
