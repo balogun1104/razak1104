@@ -13,9 +13,9 @@
 
 - 🤝  I'm open to receiving help and guidance to enhance my skills in **Building Amazing Software.
 
-- 👨‍💻 You can explore my projects on my website: **[www.razakbalogun.dev](https://razakdev.netlify.app)
+- 👨‍💻 You can explore my projects on my website: [www.razakbalogun.dev](https://razakdev.netlify.app)
 
-- 📫 Feel free to reach out to me at **razak2free@gmail.com. I'm always happy to connect!
+- 📫 Feel free to reach out to me at razak2free@gmail.com. I'm always happy to connect!
 
 - ⚡ Fun fact: In addition to being a skilled Software Engineer, **I'm also a 6'2 Point Guard Basketball Player!
 
