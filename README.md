@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Balogun Razak</h1>
-<h3 align="center">A passionate frontend developer from **Africa** 🌍</h3>
+<h3 align="center">A passionate Software Engineer from **Africa** 🌍</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razak1104&label=Profile%20views&color=0e75b6&style=flat" alt="razak1104" /> </p>
 
 <p align="left"> <a href="https://twitter.com/razak2free" target="blank"><img src="https://img.shields.io/twitter/follow/razak2free?logo=twitter&style=for-the-badge" alt="razak2free" /></a> </p>
 
-- 🔭 I’m currently working on **React and Next.js**
+- 🔭 Currently, I'm focused on **Building Innovative Software Products.**
 
-- 🌱 I’m currently learning **Data Structure and Algorithm**
+- 🌱 I'm continuously learning and expanding my knowledge in **Data Structures and Algorithms.**
 
-- 👯 I’m looking to collaborate on **Awesome Projects**
+- 👯 I'm enthusiastic about collaborating on awesome projects with **Talented Individuals.
 
-- 🤝 I’m looking for help with **Build Amazing Softwares**
+- 🤝  I'm open to receiving help and guidance to enhance my skills in **Building Amazing Software.
 
-- 👨‍💻 All of my projects are available at [https://razakdev.netlify.app](https://razakdev.netlify.app)
+- 👨‍💻 You can explore my projects on my website: **[www.razakbalogun.dev](https://razakdev.netlify.app)
 
-- 📫 How to reach me **razak2free@gmail.com**
+- 📫 Feel free to reach out to me at **razak2free@gmail.com. I'm always happy to connect!
 
-- ⚡ Fun fact **I'm a 6'2 Point Guard Basketball Player**
+- ⚡ Fun fact: In addition to being a skilled Software Engineer, **I'm also a 6'2 Point Guard Basketball Player!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
