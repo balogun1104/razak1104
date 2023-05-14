@@ -9,7 +9,7 @@
 
 - 🌱 I'm continuously learning and expanding my knowledge in **Data Structures and Algorithms.**
 
-- 👯 I'm enthusiastic about collaborating on awesome projects with **Talented Individuals.
+- 👯 I'm enthusiastic about collaborating on awesome projects with **Talented Individuals.**
 
 - 🤝  I'm open to receiving help and guidance to enhance my skills in **Building Amazing Software.
 
@@ -17,7 +17,7 @@
 
 - 📫 Feel free to reach out to me at razak2free@gmail.com. I'm always happy to connect!
 
-- ⚡ Fun fact: In addition to being a skilled Software Engineer, **I'm also a 6'2 Point Guard Basketball Player!
+- ⚡ Fun fact: In addition to being a skilled Software Engineer, **I'm also a 6'2 Point Guard Basketball Player!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
